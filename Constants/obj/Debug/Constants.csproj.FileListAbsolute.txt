@@ -1,0 +1,9 @@
+C:\Users\haoqiang.wang\Documents\Visual Studio 2013\Projects\IRFixIncomeSystemApprovement\Constants\bin\Debug\Constants.dll
+C:\Users\haoqiang.wang\Documents\Visual Studio 2013\Projects\IRFixIncomeSystemApprovement\Constants\bin\Debug\Constants.pdb
+C:\Users\haoqiang.wang\Documents\Visual Studio 2013\Projects\IRFixIncomeSystemApprovement\Constants\obj\Debug\Constants.dll
+C:\Users\haoqiang.wang\Documents\Visual Studio 2013\Projects\IRFixIncomeSystemApprovement\Constants\obj\Debug\Constants.pdb
+C:\Users\Administrator\Desktop\IRFixIncomeSystemApprovement\Constants\bin\Debug\Constants.dll
+C:\Users\Administrator\Desktop\IRFixIncomeSystemApprovement\Constants\bin\Debug\Constants.pdb
+C:\Users\Administrator\Desktop\IRFixIncomeSystemApprovement\Constants\obj\Debug\Constants.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\IRFixIncomeSystemApprovement\Constants\obj\Debug\Constants.dll
+C:\Users\Administrator\Desktop\IRFixIncomeSystemApprovement\Constants\obj\Debug\Constants.pdb

@@ -1,0 +1,14 @@
+C:\Users\haoqiang.wang\Documents\Visual Studio 2013\Projects\IRFixIncomeSystemApprovement\XmlHelper\bin\Debug\XmlHelper.dll
+C:\Users\haoqiang.wang\Documents\Visual Studio 2013\Projects\IRFixIncomeSystemApprovement\XmlHelper\bin\Debug\XmlHelper.pdb
+C:\Users\haoqiang.wang\Documents\Visual Studio 2013\Projects\IRFixIncomeSystemApprovement\XmlHelper\obj\Debug\XmlHelper.csprojResolveAssemblyReference.cache
+C:\Users\haoqiang.wang\Documents\Visual Studio 2013\Projects\IRFixIncomeSystemApprovement\XmlHelper\obj\Debug\XmlHelper.dll
+C:\Users\haoqiang.wang\Documents\Visual Studio 2013\Projects\IRFixIncomeSystemApprovement\XmlHelper\obj\Debug\XmlHelper.pdb
+C:\Users\haoqiang.wang\Documents\Visual Studio 2013\Projects\IRFixIncomeSystemApprovement\XmlHelper\bin\Debug\Models.dll
+C:\Users\haoqiang.wang\Documents\Visual Studio 2013\Projects\IRFixIncomeSystemApprovement\XmlHelper\bin\Debug\Models.pdb
+C:\Users\Administrator\Desktop\IRFixIncomeSystemApprovement\XmlHelper\bin\Debug\XmlHelper.dll
+C:\Users\Administrator\Desktop\IRFixIncomeSystemApprovement\XmlHelper\bin\Debug\XmlHelper.pdb
+C:\Users\Administrator\Desktop\IRFixIncomeSystemApprovement\XmlHelper\bin\Debug\Models.dll
+C:\Users\Administrator\Desktop\IRFixIncomeSystemApprovement\XmlHelper\bin\Debug\Models.pdb
+C:\Users\Administrator\Desktop\IRFixIncomeSystemApprovement\XmlHelper\obj\Debug\XmlHelper.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\IRFixIncomeSystemApprovement\XmlHelper\obj\Debug\XmlHelper.dll
+C:\Users\Administrator\Desktop\IRFixIncomeSystemApprovement\XmlHelper\obj\Debug\XmlHelper.pdb
